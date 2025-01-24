@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A self-taught full-stack developer from India. I'm working as a freelance web developer and building open source projects.</h3>
+<h3 align="center">A self-taught developer from India. I'm building open source projects with NextJS, React and Typescript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiyashmehta&label=Profile%20views&color=0e75b6&style=flat" alt="hiyashmehta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyashmehta" alt="hiyashmehta" /></a> </p>
 
-- 🔭 I’m currently working on [savimo.app](https://savimo.app)
+- 🔭 I’m currently working on [opppen.space](https://opppen.space)
 
-- 🌱 I’m currently learning **full-stack development with MERN stack. I'm also learning about DevOps.**
+- 🌱 I’m currently learning **AI app development and DevOps.**
 
 - 👨‍💻 All of my projects are available at [yashmehta.dev](yashmehta.dev)
 
-- 📝 I regularly write articles on [https://dev.to/hiyashmehta](https://dev.to/hiyashmehta)
+- 📝 I write articles on [https://dev.to/hiyashmehta](https://dev.to/hiyashmehta)
 
 - 💬 Ask me about **react, typescript and NextJS**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hiyashmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hiyashmehta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hiyashmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiyashmehta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hiyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiyashmehta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
